@@ -1,4 +1,5 @@
 import Auth from "./components/Auth";
+import Counter from "./components/Counter";
 import Todos from "./components/Todos";
 
 function App() {
@@ -7,6 +8,8 @@ function App() {
       <Auth />
       <br />
       <Todos />
+      <br />
+      <Counter />
     </>
   );
 }
