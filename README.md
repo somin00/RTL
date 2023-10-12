@@ -1,3 +1,5 @@
+https://github.com/walking-sunset/SRP-DIP-OCP 저장소에서 clone 후 작성한 코드입니다.
+
 # SRP-DIP-OCP
 
 ## 실행방법
