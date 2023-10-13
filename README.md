@@ -1,22 +1,2 @@
+테스팅 라이브러리 Jest, React Testing Library 사용
 https://github.com/walking-sunset/SRP-DIP-OCP 저장소에서 clone 후 작성한 코드입니다.
-
-# SRP-DIP-OCP
-
-## 실행방법
-
-1. 의존성 패키지 설치
-
-```bash
-npm install
-```
-
-2. env 파일 세팅
-
-- REACT_APP_BASE_URL environment 설정필요
-- .env.sample 파일 참고
-
-3. development server start
-
-```bash
-npm start
-```
